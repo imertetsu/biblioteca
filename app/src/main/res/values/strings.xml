@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proyecto_Biblioteca_Virtual</string>
+
+    <string name="digital">Digital</string>
+    <string name="u_m_s_s">umss</string>
+    <string name="material">Material</string>
+    <string name="biblioteca">Biblioteca</string>
+    <string name="instrucciones">Instrucciones</string>
+    <string name="feedback">Feedback</string>
+    <string name="volver">Volver</string>
+
+
+</resources>

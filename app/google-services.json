@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "481363955139",
+    "firebase_url": "https://pm-repositoriodeis.firebaseio.com",
+    "project_id": "pm-repositoriodeis",
+    "storage_bucket": "pm-repositoriodeis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481363955139:android:a965703261ee55c0700176",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_biblioteca_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481363955139-i3s2tqmmev02qcv9uitbh4vi66koj4be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyecto_biblioteca_virtual",
+            "certificate_hash": "2cb4867fc014a3a62cb8e39a78ffe6358457e2ae"
+          }
+        },
+        {
+          "client_id": "481363955139-pn0th5k9p4m2i3s03j1j36kkr23f1ja8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyecto_biblioteca_virtual",
+            "certificate_hash": "fb8a2bba0e8ff50f1b3d72e04299b1b1eb0fe03c"
+          }
+        },
+        {
+          "client_id": "481363955139-cm6g2qeq5toj8jk1jdm5qfagidvjugiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-gNb7eqi9xGvrc5bWXXnC8PCSnhIstRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481363955139-cm6g2qeq5toj8jk1jdm5qfagidvjugiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

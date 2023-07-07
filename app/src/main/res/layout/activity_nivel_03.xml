@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#176E81"
+    android:padding="20dp"
+    tools:context=".Nivel_03">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lista de PDF's disponibles"
+        android:textColor="@android:color/darker_gray"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:padding="15sp"
+        android:background="@drawable/custom_button"
+        android:id="@+id/textoprueba"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50sp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/Botones">
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</RelativeLayout>
